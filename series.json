@@ -1,0 +1,41 @@
+{
+    "info": {
+        "title": "GTA Liberty City Stories Radio",
+        "logo": "logo.png"
+    },
+    "common": {
+        "fileGroups": []
+    },
+    "stations": [
+        {
+            "path": "Double Cleff FM"
+        },
+		{
+            "path": "Flashback FM"
+        },
+		{
+            "path": "Head Radio"
+        },
+		{
+            "path": "K Jah Radio"
+        },
+		{
+            "path": "LCFR"
+        },
+		{
+            "path": "Lips 106"
+        },
+		{
+            "path": "MSX FM"
+        },
+		{
+            "path": "Radio Del mundo"
+        },
+		{
+            "path": "Rise FM"
+        },
+		{
+            "path": "The Liberty Jam"
+        }
+    ]
+}
